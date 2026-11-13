@@ -1,6 +1,6 @@
 ---
 # Speaker list
-active: true
+active: false
 type: speakers
 title: Speakers
 

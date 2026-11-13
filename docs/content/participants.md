@@ -1,7 +1,7 @@
 ---
 # Participants
 type: participants
-active: true
+active: false
 title: Participants
 ---
 
