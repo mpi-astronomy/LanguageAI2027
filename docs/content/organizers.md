@@ -20,6 +20,7 @@ The workshop is organized by the [European Space Agency (ESA)](https://www.esa.i
 * Kartheik Iyer (Flatiron Institute)
 * Sandor Kruk (ESA)
 * Kelly Lockhart (Center for Astrophysics | Harvard & Smithsonian)
+* Ivelina Momcheva (MPIA)
 * Michelle Ntampaka (STScI)
 * Adele Plunkett (NRAO)
 * Jan Reerink (ESA)
